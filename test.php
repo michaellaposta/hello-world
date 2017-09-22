@@ -1,0 +1,7 @@
+<?
+
+// test
+
+print("test\n");
+
+?>
